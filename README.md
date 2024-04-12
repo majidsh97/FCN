@@ -1,2 +1,3 @@
 # FCN
-Fully Connected Layer, SGD, NN
+Fully Connected Layer, SGD, NN, SoftMax,...
+Implemented with Numpy
